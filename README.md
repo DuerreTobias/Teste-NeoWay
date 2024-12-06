@@ -31,7 +31,7 @@ Este script coleta informações sobre artistas, lançamentos e álbuns de músi
 
 4. **Execute o script**: Após configurar os parâmetros, execute o script em um ambiente Python:
    ```bash
-   python discogs_data_collector.py
+   python3 Teste-Neoway.py
    ```
 
 5. **Dados gerados**: Os dados serão salvos no arquivo `Dados Coletados.jsonl`, no mesmo diretório do script. Este arquivo contém os dados dos artistas, incluindo informações sobre seus álbuns e faixas.
